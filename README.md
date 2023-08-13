@@ -11,7 +11,6 @@ Storeal is a fully-functional e-commerce website that offers a diverse range of 
 - **Cart Management:** Add products to your cart and proceed to checkout.
 - **Wishlist:** Keep track of your favorite items by adding them to your wishlist.
 - **Responsive Design:** Enjoy a seamless shopping experience across devices.
-- **Secure Transactions:** Rest assured, your payment details are handled securely.
 - **Search and Filters:** Easily find products with our search and filtering options.
 
 ## Installation
