@@ -35,7 +35,7 @@ If you're using XAMPP for your local development environment, follow these steps
 1. Download and install XAMPP from [xampp.org](https://www.apachefriends.org/index.html).
 2. Clone the Storeal repository to the `htdocs` folder of your XAMPP installation (usually located at `C:\xampp\htdocs\` on Windows or `/Applications/XAMPP/htdocs/` on macOS).
 3. Launch the XAMPP Control Panel and start the Apache and MySQL modules.
-4. Open your web browser and navigate to `http://localhost/storeal/landingpage.html` to access the landing page.
+4. Open your web browser and navigate to `http://localhost/landingpage.html` to access the landing page.
 5. From there, you can explore the website, sign up or log in, and begin using all the features Storeal has to offer.
 
 Remember to update the URLs and paths according to your specific setup.
